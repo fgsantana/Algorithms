@@ -3,7 +3,7 @@ import java.math.*;
 public class AVLTreeTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		AVLTree tree = new AVLTree();
 
 		tree.insertTree(10);
